@@ -1,0 +1,43 @@
+body {
+    background: rgba(255,70,159,1);
+
+    font-family: 'Inter', sans-serif;
+}
+.cont {
+  background-color: white;
+  margin-top: 50px;
+  height: 700px;
+  justify-content: center;
+  padding-top: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  max-width: 650px;
+  border-radius: 11px;
+}
+.form {
+  margin: 0 auto;
+
+  max-width: 500px;
+  height: 400px;
+
+  justify-content: center;
+}
+.heading {
+  text-align: center;
+}
+img {
+  align-items: center;
+  text-align: center;
+}
+#signin {
+  color: rgb(36, 147, 184);
+}
+.forget {
+  color: rgb(36, 147, 184);
+}
+.forget:hover {
+  color: red;
+  cursor: pointer;
+}
+h1{
+    font-weight: bolder;
+  }
